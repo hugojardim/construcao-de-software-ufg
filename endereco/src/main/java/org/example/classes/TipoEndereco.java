@@ -1,2 +1,6 @@
-package org.example.classes;public class TipoEndereco {
+package org.example.classes;
+
+public enum TipoEndereco {
+    RESIDENCIAL,
+    COMERCIAL;
 }
